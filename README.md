@@ -14,7 +14,7 @@ class Veiculo {
     }
 }
 
-// Carro{
+// Carro
 class Carro extends Veiculo {
     public Carro(String marca, String modelo, int ano) {
         super(marca, modelo, ano);
@@ -29,7 +29,7 @@ class Moto extends Veiculo {
         super(marca, modelo, ano);
     }
 }
-}
+
 
 
 
